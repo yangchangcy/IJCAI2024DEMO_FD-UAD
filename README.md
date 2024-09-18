@@ -1,4 +1,6 @@
-# IJCAI2024DEMO_FD-UAD_VIDEO
+# IJCAI2024_FD-UAD_Paper&VIDEO
 
-https://www.youtube.com/watch?v=1VzYyTdnVdk
+Paper：https://www.ijcai.org/proceedings/2024/0993.pdf
+
+Video：https://www.youtube.com/watch?v=1VzYyTdnVdk
 
